@@ -1,6 +1,6 @@
-# Pixora PHP Insta Clone
+# Pixora PHP Social App
 
-Pixora is a PHP and MySQL Instagram-style project for XAMPP.
+Pixora is a PHP and MySql project 
 
 Features:
 
