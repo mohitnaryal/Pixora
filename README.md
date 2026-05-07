@@ -15,11 +15,11 @@ Features:
 
 ## Setup in XAMPP
 
-1. Copy `insta_clone` into `C:\xampp\htdocs\`.
+1. Copy `pixora` into `C:\xampp\htdocs\`.
 2. Start Apache and MySQL.
 3. Open `http://localhost/phpmyadmin`.
 4. Import `database.sql`.
-5. Visit `http://localhost/insta_clone/register.php`.
+5. Visit `http://localhost/pixora/register.php`.
 
 Database config is in `config/db.php`.
 
